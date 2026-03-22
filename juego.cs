@@ -4,10 +4,10 @@ class Programa
 {
     static void Main()
     {
-        Console.WriteLine("Estás solo en la oscuridad...");
+        Console.WriteLine("Estás no tienes ESCAPATORIAAAAAAA...");
         Console.Write("¿Escuchar sonido? (si/no): ");
         string r = Console.ReadLine();
-        if (r == "si") Console.WriteLine("Escuchas pasos detrás de ti...");
+        if (r == "si") Console.WriteLine("Escuchas pasos ATRAS DE TI CORRE...");
         else Console.WriteLine("El silencio es peor...");
     }
 }
